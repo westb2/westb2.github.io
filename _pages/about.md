@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: benjaminwest@email.arizona.edu
 
 profile:
   align: right
