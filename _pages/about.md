@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: benjaminwest@email.arizona.edu
+subtitle: benjaminwest@email.arizona.edu, {https://www.condonlab.org}
 
 profile:
   align: right
